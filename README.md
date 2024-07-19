@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramesh Gorekanti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-9tzz-rameshs-projects-842c5009.vercel.app/](https://portfolio-9tzz-rameshs-projects-842c5009.vercel.app/)
+- 👨‍💻 All of my projects are available at [(https://portfolio-rameshgorekanti.vercel.app/)](https://portfolio-9tzz-rameshs-projects-842c5009.vercel.app/)
 
 - 💬 Ask me about **react,node**
 
